@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+.body{
+   background:linear-gradient(190deg, #0049f5 10%, #ff2323 100%);
+}
+
+.col-md-5{
+ 
+  margin-left: 30%;
+    border: 2px solid black;
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+.col-md-5:hover{
+  background: hsl(57, 100%, 51%);
+}
